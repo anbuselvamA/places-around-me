@@ -200,4 +200,4 @@ map.html :
 
 
 ## Result:
-Write your result
+Thus The Web Is Developed To Show The Details Of SEC
